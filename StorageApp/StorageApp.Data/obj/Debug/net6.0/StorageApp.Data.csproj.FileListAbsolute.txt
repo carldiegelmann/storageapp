@@ -1,0 +1,17 @@
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Data.deps.json
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Data.runtimeconfig.json
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Data.dll
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Data.pdb
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Domain.dll
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\bin\Debug\net6.0\StorageApp.Domain.pdb
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.csproj.AssemblyReference.cache
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.AssemblyInfoInputs.cache
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.AssemblyInfo.cs
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.csproj.CoreCompileInputs.cache
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.csproj.CopyComplete
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.dll
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\refint\StorageApp.Data.dll
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.pdb
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\StorageApp.Data.genruntimeconfig.cache
+C:\Projects\StorageApp\StorageApp\StorageApp.Data\obj\Debug\net6.0\ref\StorageApp.Data.dll

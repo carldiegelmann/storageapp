@@ -1,0 +1,6 @@
+*.vsidx
+*.cache
+/StorageApp/StorageApp.UI/bin/*
+/StorageApp/StorageApp.Domain/obj/Debug/*
+*.lock
+/StorageApp/.vs/*
